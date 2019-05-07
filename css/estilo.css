@@ -1,0 +1,58 @@
+body {
+	background-color: #000
+}
+
+
+textarea {
+	resize: none
+}
+
+.caixa {
+	margin: 0.5em;
+	padding: 1em 2em;
+	background-color: white;
+	border-radius: 0.5em
+}
+
+.faixa {
+	background-color: white;
+	padding: 2em;
+	margin: 1em 0em
+}
+
+.mapa {
+	height: 300px
+}
+
+.preco{
+	text-align: center;
+	font-style: bold;
+	font-size: 3em;
+	color: #66CC00
+}
+
+.naoEncontrada {
+	color: white;
+	text-align: center
+}
+
+.itemDisponivel {
+	padding: 2em 0em
+}
+
+#infoMap {
+	color: white
+}
+
+#cabecalho {
+	padding: 1em
+}
+
+#cabecalho img {
+	max-height: 200px
+}
+
+#rodape {
+	text-align: center;
+	margin-top: 2em
+}

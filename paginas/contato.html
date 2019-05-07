@@ -1,0 +1,54 @@
+<section class="row caixa">
+	<article class="col-xs-12 col-md-6">
+		<h2> Fale Conosco </h2>
+		<p>Nós estamos muito interessados no que você tem a dizer. Por isso, criamos este espaço especialmente para você fazer seus comentários, dar sugestões e esclarecer dúvidas. Escreva pra gente! É fácil, rápido e teremos o maior prazer em responder.</p>
+		<p>Para falar diretamente com nosso atendentes ligue para (19)3631-0477.</p>
+		<p>Para mandar uma mensagem preencha os campos do formulário ao lado ou envie um e-mai para contato@apollolocacoes.com.br.</p>
+	</article>
+	<article class="col-xs-12 col-md-6">
+		<h2>Formulário de Contato</h2>
+		<form name="formContato">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="form-group">
+						<label for="email">E-mail</label>
+						<input type="email" name="email" class="form-control">
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="form-group">
+						<label for="assunto">Assunto</label>
+						<input type="text" name="assunto" class="form-control">
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="form-group">
+						<label for="mensagem">Mensagem</label>
+						<textarea name="mensagem" rows="4" class="form-control"></textarea>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="form-group">
+						<input type="submit" name="submit" class="btn btn-primary" value="Enviar">
+					</div>
+				</div>
+			</div>
+		</form>
+	</article>
+</section>
+
+<div class="row">
+	<div class="col-xs-12">
+		<p class="text-center" id="infoMap"></p>
+	</div>
+	<div class="mapa col-xs-12" id="googleMap"></div>
+</div>
+
+<script src="js/geolocation.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBJVmgsMwWzJyMFh1_bXBWXnGDPZBG0sVY&callback=getLocation"></script>

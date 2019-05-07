@@ -1,0 +1,42 @@
+[
+	{
+		"capa":"her.jpg",
+		"titulo":"Her",
+		"preco":"10,00"
+	},
+	{
+		"capa":"exmachina.jpg",
+		"titulo":"Ex_machina",
+		"preco":"15,00"
+	},
+	{
+		"capa":"gravidade.jpg",
+		"titulo":"Gravidade",
+		"preco":"20,00"
+	},
+	{
+		"capa":"whiplash.jpg",
+		"titulo":"Whiplash",
+		"preco":"15,00"
+	},
+	{
+		"capa":"500dias.jpg",
+		"titulo":"500 Days of Summer",
+		"preco":"10,00"
+	},
+	{
+		"capa":"scott.jpg",
+		"titulo":"Scott Pilgrim Contra o Mundo",
+		"preco":"15,00"
+	},
+	{
+		"capa":"bilhoeterno.jpg",
+		"titulo":"Brilho Eterno de Uma Mente Sem Lembraças",
+		"preco":"20,00"
+	},
+	{
+		"capa":"fragmentado.jpg",
+		"titulo":"Fragmentado",
+		"preco":"15,00"
+	}
+]

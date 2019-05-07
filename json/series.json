@@ -1,0 +1,42 @@
+[
+	{
+		"capa":"drhouse.jpg",
+		"titulo":"Dr. House",
+		"preco":"20,00"
+	},
+	{
+		"capa":"pennydreadful.png",
+		"titulo":"Penny Dreadful",
+		"preco":"15,00"
+	},
+	{
+		"capa":"siliconvalley.jpg",
+		"titulo":"Silicon Valley",
+		"preco":"10,00"
+	},
+	{
+		"capa":"mrrobot.jpg",
+		"titulo":"Mr. Robot",
+		"preco":"15,00"
+	},
+	{
+		"capa":"haltandcatchfire.jpg",
+		"titulo":"Halt and Catch Fire",
+		"preco":"20,00"
+	},
+	{
+		"capa":"psi.jpg",
+		"titulo":"PSI",
+		"preco":"15,00"
+	},
+	{
+		"capa":"breakingbad.jpg",
+		"titulo":"Breaking Bad",
+		"preco":"10,00"
+	},
+	{
+		"capa":"animals.jpg",
+		"titulo":"Animals",
+		"preco":"15,00"
+	}
+]

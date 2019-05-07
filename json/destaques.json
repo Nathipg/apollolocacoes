@@ -1,0 +1,22 @@
+[
+	{
+		"capa":"srraposo.jpg",
+		"titulo":"O Fantástico Sr. Raposo",
+		"preco":"30,00"
+	},
+	{
+		"capa":"tenaciousd.jpg",
+		"titulo":"Tenacious D",
+		"preco":"25,00"
+	},
+	{
+		"capa":"divertidamente.jpg",
+		"titulo":"Divertida Mente",
+		"preco":"20,00"
+	},
+	{
+		"capa":"corra.jpg",
+		"titulo":"Corra!",
+		"preco":"35,00"
+	}
+]
